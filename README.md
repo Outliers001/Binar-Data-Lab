@@ -1,4 +1,4 @@
-# Binar-Data-Lab
+# Binary-Data-Lab
 Solution of 1st workshop
 ## @ Md. Shakil Sikder Shawon
 ### Dept. of Statistics,BSMRSTU
